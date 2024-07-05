@@ -219,11 +219,6 @@ a {
   padding-bottom: 120px;
 }
 
-.team-container {
-  padding-top: 32px;
-  padding-bottom: 32px;
-}
-
 .team-title {
   font-size: 36px;
   line-height: 1.11;
@@ -247,7 +242,8 @@ a {
 }
 
 .employee-name {
-  padding: 32px 16px;
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
 
 .team-subtitle {
